@@ -3,10 +3,15 @@
 ## Challenge Description
 
 **Title**: Binary Maze
+
 **Category**: Reverse Engineering
+
 **Difficulty**: Hard
+
 **Points**: 500
+
 **Author**: [Evil0ctal](https://github.com/Evil0ctal/Binary-Maze-CTF-Challenge)
+
 **Files**: 
 - binary_maze (encrypted binary)
 - binary_maze.iv (initialization vector)
